@@ -15,7 +15,7 @@ The benefit of integrating them with **Home Assistant** is that you can retrieve
 
 ## How can Bluetooth be added to Home Assistant?
 
-The simplest and most natural solution is to add a **USB Bluetooth** adapter to the machine running **Home Assistant**.
+The simplest and most natural solution is to use the machine's built-in **Bluetooth** if available, or add a **USB Bluetooth adapter** to the machine running **Home Assistant**.
 
 For example:
 
