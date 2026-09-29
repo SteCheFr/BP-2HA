@@ -25,7 +25,7 @@ For example:
   <img src="Pictures/Without_proxy.jpg" alt="BP-2HA" width="500">
 </p>
 
-The **Bluetooth** dongle is then used directly by **Home Assistant** to communicate with **Bluetooth** devices, this solution works very well when the Bluetooth devices are located close to the **Home Assistant** server.
+The **Bluetooth** dongle is then used directly by **Home Assistant** to communicate with **Bluetooth** devices, this solution works very well when the **Bluetooth** devices are located close to the **Home Assistant** server.
 
 But there is one problem: **range**.
 
