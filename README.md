@@ -2,7 +2,7 @@
 
 ## Why use Bluetooth with Home Assistant ?
 
-Many household devices communicate via Bluetooth and can be integrated with **Home Assistant**, for example:
+Many household devices communicate via **Bluetooth** and can be integrated with **Home Assistant**, for example:
 
 * ⚖️ a smart scale,
 * 💪 a connected blood pressure monitor,
