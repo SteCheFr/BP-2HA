@@ -7,7 +7,7 @@ Many household devices communicate via Bluetooth and can be integrated with **Ho
 * ⚖️ a smart scale,
 * 💪 a connected blood pressure monitor,
 * 💧 soil moisture sensors for plants,
-* 📍 Bluetooth beacons for presence detection,
+* 📍 beacons for presence detection,
 
 and many other devices using **Bluetooth**.
 
