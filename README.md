@@ -36,3 +36,8 @@ The range varies greatly depending on the circumstances, but it rarely exceeds 1
 A **Bluetooth Proxy** makes it possible to add **Bluetooth** wherever Wi-Fi is available. It is a small electronic device, usually based on an **ESP32** controller, which connects to your home's Wi-Fi network and acts as a gateway between Bluetooth devices and **Home Assistant**.
 
 In practice, instead of having to place **Home Assistant** or a **Bluetooth** dongle close to the devices you want to control or monitor, the **Bluetooth Proxy** listens for Bluetooth communications around it and forwards the information to **Home Assistant**.
+
+<p align="center">
+  <img src="Pictures/With_proxies.jpg" alt="BP-2HA" width="500">
+</p>
+
