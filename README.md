@@ -38,6 +38,6 @@ A **Bluetooth Proxy** makes it possible to add **Bluetooth** wherever Wi-Fi is a
 In practice, instead of having to place **Home Assistant** or a **Bluetooth** dongle close to the devices you want to control or monitor, the **Bluetooth Proxy** listens for Bluetooth communications around it and forwards the information to **Home Assistant**.
 
 <p align="center">
-  <img src="Pictures/With_proxies.jpg" alt="BP-2HA" width="500">
+  <img src="Pictures/With_proxies.jpg" alt="BP-2HA" width="800">
 </p>
 
