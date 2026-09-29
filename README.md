@@ -19,14 +19,9 @@ The simplest and most natural solution is to add a **USB Bluetooth** adapter to 
 
 For example:
 
-```text
-              USB
-Home Assistant ◄────► Bluetooth Dongle
-                         │
-                         │ Bluetooth
-                         ▼
-                   Bluetooth Device
-```
+<p align="center">
+  <img src="Pictures/Without_proxy.jpg" alt="BP-2HA" width="500">
+</p>
 
 The **Bluetooth** dongle is then used directly by **Home Assistant** to communicate with **Bluetooth** devices, tis solution works very well when the Bluetooth devices are located close to the **Home Assistant** server.
 
