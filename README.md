@@ -25,6 +25,12 @@ For example:
   <img src="Pictures/Without_proxy.jpg" alt="BP-2HA" width="500">
 </p>
 
+<br><br>
+
+<p align="center">
+  <img src="Pictures/Range_without_proxy.jpg" alt="BP-2HA" width="500">
+</p>
+
 The **Bluetooth** dongle is then used directly by **Home Assistant** to communicate with **Bluetooth** devices, this solution works very well when the **Bluetooth** devices are located close to the **Home Assistant** server.
 
 But there is one problem: **range**.
@@ -43,6 +49,12 @@ In practice, instead of having to place **Home Assistant** or a **Bluetooth** do
 
 <p align="center">
   <img src="Pictures/With_proxies.jpg" alt="BP-2HA" width="800">
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="Pictures/Range_with_proxy.jpg" alt="BP-2HA" width="500">
 </p>
 
 <br>
