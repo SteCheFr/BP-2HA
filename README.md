@@ -45,6 +45,7 @@ In practice, instead of having to place **Home Assistant** or a **Bluetooth** do
   <img src="Pictures/With_proxies.jpg" alt="BP-2HA" width="800">
 </p>
 
+<br>
 
 ## Additional Features
 
