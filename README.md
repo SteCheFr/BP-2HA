@@ -66,7 +66,7 @@ For example:
 
 These indicators can also be used for any other **Home Assistant** automation requiring local visual or audible feedback.
 
-Each **Bluetooth Proxy**** also includes a **reset button**.
+Each **Bluetooth Proxy** also includes a **reset button**.
 
 
 
