@@ -48,18 +48,25 @@ In practice, instead of having to place **Home Assistant** or a **Bluetooth** do
 
 ## Additional Features
 
-It is also possible to equip each Bluetooth Proxy with an **LED**, a **buzzer**, or both, to provide visual or audible feedback to the user.
+It is also possible to equip each **Bluetooth Proxy** with an **LED**, a **buzzer**, or both, to provide visual or audible feedback to the user.
 
 For example:
 
-* ⚖️ flash an LED when a measurement from a connected scale has been successfully received and recorded by Home Assistant;
-* 💪 emit an audible signal when a blood pressure reading from a Bluetooth monitor has been processed by Home Assistant;
-* 📍 confirm the detection of a Bluetooth beacon;
-* 🔔 indicate that an automation has been executed;
-* ✅ show that a Bluetooth device is connected or that data has been successfully received.
+* ⚖️ flash a LED when a measurement from a connected scale has been successfully received and recorded by **Home Assistant**,
+  
+* 💪 emit an audible signal when a blood pressure reading from a **Bluetooth** monitor has been processed by **Home Assistant**,
+  
+* 📍 confirm the detection of a **Bluetooth beacon**,
+  
+* 🔔 indicate that an automation has been executed,
+  
+* ✅ show that a **Bluetooth** device is connected or that data has been successfully received.
 * ...
 
-These indicators can also be used for any other Home Assistant automation requiring local visual or audible feedback.
+These indicators can also be used for any other **Home Assistant** automation requiring local visual or audible feedback.
+
+Each **Bluetooth Proxy**** also includes a **reset button**.
+
 
 
 
