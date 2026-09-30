@@ -22,13 +22,13 @@ For example:
 <br><br>
 
 <p align="center">
-  <img src="Pictures/Without_proxies.jpg" alt="BP-2HA" width="800">
+  <img src="Pictures/Without_proxies.jpg" alt="BP-2HA" width="1200">
 </p>
 
 <br><br>
 
 <p align="center">
-  <img src="Pictures/Range_without_proxies.jpg" alt="BP-2HA" width="1000">
+  <img src="Pictures/Range_without_proxies.jpg" alt="BP-2HA" width="1200">
 </p>
 
 The **Bluetooth** dongle is then used directly by **Home Assistant** to communicate with **Bluetooth** devices, this solution works very well when the **Bluetooth** devices are located close to the **Home Assistant** server.
@@ -48,13 +48,13 @@ In practice, instead of having to place **Home Assistant** or a **Bluetooth** do
 <br>
 
 <p align="center">
-  <img src="Pictures/With_proxies.jpg" alt="BP-2HA" width="800">
+  <img src="Pictures/With_proxies.jpg" alt="BP-2HA" width="1200">
 </p>
 
 <br><br>
 
 <p align="center">
-  <img src="Pictures/Range_with_proxies.jpg" alt="BP-2HA" width="1000">
+  <img src="Pictures/Range_with_proxies.jpg" alt="BP-2HA" width="1200">
 </p>
 
 <br>
