@@ -54,7 +54,7 @@ In practice, instead of having to place **Home Assistant** or a **Bluetooth** do
 <br><br>
 
 <p align="center">
-  <img src="Pictures/Range_with_proxies.jpg" alt="BP-2HA" width="500">
+  <img src="Pictures/Range_with_proxies.jpg" alt="BP-2HA" width="1000">
 </p>
 
 <br>
