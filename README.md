@@ -1,6 +1,6 @@
 # BP-2HA Bluetooth Proxy for Home Assistant
 
-## Why use Bluetooth with Home Assistant ?
+## Why use Bluetooth Proxies with Home Assistant ?
 
 Many household devices communicate via **Bluetooth** and can be integrated with **Home Assistant**, for example:
 
@@ -28,7 +28,7 @@ For example:
 <br><br>
 
 <p align="center">
-  <img src="Pictures/Range_without_proxy.jpg" alt="BP-2HA" width="500">
+  <img src="Pictures/Without_proxy.jpg" alt="BP-2HA" width="500">
 </p>
 
 The **Bluetooth** dongle is then used directly by **Home Assistant** to communicate with **Bluetooth** devices, this solution works very well when the **Bluetooth** devices are located close to the **Home Assistant** server.
