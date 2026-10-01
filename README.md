@@ -76,8 +76,6 @@ For example:
 * ✅ show that a **Bluetooth** device is connected or that data has been successfully received.
 * ...
 
-These indicators can also be used for any other **Home Assistant** automation requiring local visual or audible feedback.
-
 Each **Bluetooth Proxy** also includes a **reset button**.
 
 
