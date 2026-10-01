@@ -78,6 +78,10 @@ For example:
 
 Each **Bluetooth Proxy** also includes a **reset button**.
 
+<br>
+
+I wrote this article on October 2, 2026, if anything is unclear or if you think something could be explained better, I would be happy to hear your feedback.
+
 
 
 
